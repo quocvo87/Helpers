@@ -1,5 +1,5 @@
 {
-    "name": {"trueme/helpers"},
+    "name": "trueme/helpers",
     "autoload": {
         "files": [
             "src/Support/helpers.php"
