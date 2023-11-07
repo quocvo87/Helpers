@@ -1,0 +1,11 @@
+{
+	"require": {
+		"trueme/helpers": "dev-main"
+	},
+	"repositories" : [
+		{
+			"type": "vcs",
+			"url": "https://github.com/quocvo87/Helpers.git"
+        }
+	]
+}
